@@ -1,6 +1,8 @@
+streamlit
 langgraph
 langchain
+langchain-core
 langchain-groq
+playwright
+esprima
 python-dotenv
-streamlit
-pydantic
